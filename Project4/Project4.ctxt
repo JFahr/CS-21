@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Project4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=rows\ cols
+comment2.target=int[][]\ setArray(int,\ int)
+comment3.params=a\ b\ c
+comment3.target=void\ display(int[][],\ int,\ int)
+comment4.params=a\ b\ c
+comment4.target=void\ rowAvg(int[][],\ int,\ int)
+comment5.params=a\ b\ c
+comment5.target=void\ colAvg(int[][],\ int,\ int)
+numComments=6

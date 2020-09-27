@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Final
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=name\ game\ goal
+comment2.target=void\ printSentences(java.lang.String[],\ int[],\ int[])
+comment3.params=name\ goal
+comment3.target=void\ printHighestLowest(java.lang.String[],\ int[])
+comment4.params=name\ team
+comment4.target=void\ oneTeam(java.lang.String[],\ int[])
+comment5.params=name\ game
+comment5.target=void\ thousand(java.lang.String[],\ int[])
+numComments=6
