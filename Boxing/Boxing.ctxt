@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Boxing
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Boxing\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=w
+comment2.target=boolean\ isFeatherweight(double)
+comment3.params=w
+comment3.target=boolean\ isFlyweight(double)
+comment4.params=w
+comment4.target=boolean\ isBantamweight(double)
+comment5.params=w
+comment5.target=boolean\ isLightweight(double)
+comment6.params=w
+comment6.target=boolean\ isLightwelterweight(double)
+comment7.params=w
+comment7.target=boolean\ isWelterweight(double)
+comment8.params=w
+comment8.target=boolean\ isMiddleweight(double)
+comment9.params=w
+comment9.target=boolean\ isLightheavyweight(double)
+numComments=10
